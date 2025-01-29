@@ -1,5 +1,7 @@
 # GitHub User Activity CLI
 
+https://roadmap.sh/projects/github-user-activity
+
 ### Overview
 
 The **GitHub Activity CLI** is a command-line interface application written in Go. It allows users to fetch and display the recent activities of a GitHub user.
